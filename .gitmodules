@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "penppml"]
+	path = penppml
+	url = https://github.com/tomzylkin/penppml
+	shallow = true
+	registered = true
